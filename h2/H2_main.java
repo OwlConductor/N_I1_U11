@@ -52,7 +52,7 @@ public class H2_main {
         }
     }
 
-    public static int fibonacciIterativ(int iterations) {
+    public static int fbonacciIterativ(int iterations) {
         if(iterations<=0)
             return -1;
 
